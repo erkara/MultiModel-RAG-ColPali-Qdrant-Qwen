@@ -2,7 +2,7 @@
 
 This repository has two notebooks that demonstrate a vision-based Retrieval-Augmented Generation (RAG) pipeline built with ColPali, Qdrant, and Qwen models. The project focuses on efficient image-based retrieval and generating insightful answers to user queries.
 
-![Vision-based RAG Pipeline](assets/similarity_map.png)
+<img src="assets/pipeline_demo.png" alt="Vision-based RAG Pipeline" width="600"/>
 
 ## Components
 
