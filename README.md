@@ -11,9 +11,9 @@ This repository has two notebooks that demonstrate a vision-based Retrieval-Augm
 
 There are two notebooks:
 
-- **`colpali_intro`**: Set up a retrieval pipeline using ColPali without requiring a vector store. It also includes interpretability features to visualize query-image similarities.
+- **[colpali_intro.ipynb](https://github.com/erkara/MultiModel-RAG-ColPali-Qdrant-Qwen/blob/main/colpali_intro.ipynb)**: Set up a retrieval pipeline using ColPali without requiring a vector store. It also includes interpretability features to visualize query-image similarities.
 
-- **`colpali_qdrant`**: Extend the pipeline by integrating Qdrant to handle large-scale retrieval. 
+- **[colpali_qdrant.ipynb](https://github.com/erkara/MultiModel-RAG-ColPali-Qdrant-Qwen/blob/main/colpali_qdrand.ipynb)**: Extend the pipeline by integrating Qdrant to handle large-scale retrieval. 
 
 
 It would be hard to pull this notebook together without great resources. Check [ColPali cookbooks](https://github.com/tonywu71/colpali-cookbooks), [Qdrant tutorial](https://youtu.be/_A90A-grwIc?si=i9m2u_u06t9yNwbS), and [Vespa blog](https://blog.vespa.ai/retrieval-with-vision-language-models-colpali/) for more cool stuff. I hope you enjoy!
